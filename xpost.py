@@ -12,8 +12,14 @@ import os
 REQUIRED = ["X_API_KEY", "X_API_SECRET", "X_ACCESS_TOKEN", "X_ACCESS_TOKEN_SECRET"]
 
 
+def post_enabled():
+    """仓库变量 X_POST_ENABLED 开关：设为 false/0/no 即停发，默认开启。"""
+    val = os.environ.get("X_POST_ENABLED", "true").strip().lower()
+    return val not in ("false", "0", "no", "off")
+
+
 def can_post():
-    return all(os.environ.get(k) for k in REQUIRED)
+    return post_enabled() and all(os.environ.get(k) for k in REQUIRED)
 
 
 def post_text(text):
@@ -37,6 +43,9 @@ def post_all(posts_dir, dry_run=False):
     paths = sorted(glob.glob(os.path.join(posts_dir, "*.txt")))
     if not paths:
         print("[post] 没有待发草稿。")
+        return []
+    if not post_enabled():
+        print("[post] X_POST_ENABLED 为 false，跳过发帖（草稿已保留在 out/ 下）。")
         return []
     if not can_post():
         print("[post] 未检测到 X_* 环境变量，跳过发帖（草稿已保留在 out/ 下）。")
