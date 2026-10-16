@@ -1,0 +1,129 @@
+# 收录的 agent 列表：新增 agent 只需在这里加一段配置，无需改代码。
+#
+# source.type 支持：
+#   - github_releases: 走 GitHub Releases API（需 repo: owner/name）
+#   - feed:            Atom / RSS 订阅（需 url）
+#
+# filter_keyword（可选）：只保留标题或正文包含该关键词的条目，
+#   适用于从混合 feed（如 github.blog 全站 changelog）里过滤的情况。
+
+agents:
+  - id: claude-code
+    name: Claude Code
+    hashtag: "#ClaudeCode"
+    homepage: https://code.claude.com
+    source:
+      type: feed
+      url: https://raw.githubusercontent.com/anthropics/claude-code/main/feed.xml
+
+  - id: codex
+    name: OpenAI Codex
+    hashtag: "#Codex"
+    homepage: https://github.com/openai/codex
+    source:
+      type: github_releases
+      repo: openai/codex
+
+  - id: cursor
+    name: Cursor
+    hashtag: "#Cursor"
+    homepage: https://cursor.com
+    source:
+      type: feed
+      url: https://www.cursor.com/changelog/rss.xml
+
+  - id: opencode
+    name: OpenCode
+    hashtag: "#OpenCode"
+    homepage: https://opencode.ai
+    source:
+      type: github_releases
+      # 注意：1.x 稳定线在 anomalyco/opencode（sst/opencode 已重定向到此）；
+      # 2.x 目前只打 git tag、不发 GitHub release，暂不收录
+      repo: anomalyco/opencode
+
+  - id: copilot
+    name: GitHub Copilot
+    hashtag: "#GitHubCopilot"
+    homepage: https://github.blog/changelog/
+    filter_keyword: copilot
+    source:
+      type: feed
+      url: https://github.blog/changelog/feed/
+
+  - id: minimax-code
+    name: MiniMax Code
+    hashtag: "#MiniMaxCode"
+    homepage: https://github.com/MiniMax-AI/minimax-code
+    source:
+      type: github_releases
+      repo: MiniMax-AI/minimax-code
+
+  - id: zcode
+    name: ZCode
+    hashtag: "#ZCode"
+    homepage: https://zcode.z.ai
+    source:
+      type: github_releases
+      repo: zai-org/ZCode
+
+  - id: deepseek-harness
+    name: DeepSeek Harness
+    hashtag: "#DeepSeekHarness"
+    homepage: https://github.com/deepseek-ai/deepseek-harness
+    source:
+      type: github_releases
+      repo: deepseek-ai/deepseek-harness
+      include_prerelease: true  # 目前只有 alpha 预览版
+      strip_prefix: "dsh-"      # tag 如 dsh-v0.2.1-alpha.4，显示时去掉 dsh- 前缀
+
+  - id: qoder
+    name: Qoder
+    hashtag: "#Qoder"
+    homepage: https://qoder.com
+    source:
+      type: webpage
+      parser: qoder
+      url: https://docs.qoder.com/release-notes/qoder
+
+  - id: chatgpt
+    name: ChatGPT & Codex
+    hashtag: "#ChatGPT"
+    homepage: https://learn.chatgpt.com/docs/changelog
+    source:
+      type: webpage
+      parser: learn-chatgpt-changelog
+      url: https://learn.chatgpt.com/docs/changelog
+
+  - id: openclaw
+    name: OpenClaw
+    hashtag: "#OpenClaw"
+    homepage: https://github.com/openclaw/openclaw
+    source:
+      type: github_releases
+      repo: openclaw/openclaw
+
+  - id: cline
+    name: Cline
+    hashtag: "#Cline"
+    homepage: https://github.com/cline/cline
+    source:
+      type: github_releases
+      repo: cline/cline
+
+  - id: kilocode
+    name: Kilo Code
+    hashtag: "#KiloCode"
+    homepage: https://github.com/Kilo-Org/kilocode
+    source:
+      type: github_releases
+      repo: Kilo-Org/kilocode
+
+  - id: devin
+    name: Devin
+    hashtag: "#Devin"
+    homepage: https://docs.devin.ai/desktop/changelog
+    source:
+      type: webpage
+      parser: devin-changelog
+      url: https://docs.devin.ai/desktop/changelog
