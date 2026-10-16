@@ -1,0 +1,48 @@
+name: Agent Changelog
+
+on:
+  schedule:
+    # 每天 09:00 北京时间运行
+    - cron: "0 1 * * *"
+  workflow_dispatch:  # 允许手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  changelog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 抓取并生成日报
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_API_BASE: ${{ secrets.LLM_API_BASE }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
+          SUMMARY_LANG: ${{ secrets.SUMMARY_LANG }}
+        run: python main.py --digest
+
+      - name: 发布到 X
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        run: python main.py --post
+
+      - name: 回写 state 与日报
+        run: |
+          git config user.name "agentschangelog-bot"
+          git config user.email "bot@agentschangelog.local"
+          git add data/state.json
+          git diff --cached --quiet || git commit -m "chore: 每日 changelog 更新 $(date -u +%F)"
+          git push
