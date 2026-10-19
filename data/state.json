@@ -1,5 +1,6 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.303",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.302",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.301",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.300",
@@ -8,8 +9,7 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.295",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.294",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.292",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.291"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.292"
   ],
   "codex": [
     "github:openai/codex:414286110"
@@ -107,11 +107,11 @@
     "learn-chatgpt:github-release-400492869"
   ],
   "openclaw": [
+    "github:openclaw/openclaw:416702414",
     "github:openclaw/openclaw:414373481",
     "github:openclaw/openclaw:413634115",
     "github:openclaw/openclaw:411695418",
-    "github:openclaw/openclaw:410197501",
-    "github:openclaw/openclaw:409242648"
+    "github:openclaw/openclaw:410197501"
   ],
   "cline": [
     "github:cline/cline:415547955",
