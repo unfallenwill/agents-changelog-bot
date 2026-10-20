@@ -1,5 +1,6 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.304",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.303",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.302",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.301",
@@ -8,8 +9,7 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.296",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.295",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.294",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.292"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.293"
   ],
   "codex": [
     "github:openai/codex:414286110"
@@ -39,16 +39,16 @@
     "github:anomalyco/opencode:385202354"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+    "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
+    "https://github.blog/changelog/2026-10-15-some-git-over-https-may-temporarily-require-authentication",
+    "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
     "https://github.blog/changelog/2026-10-13-open-source-license-compliance-generally-available",
     "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
     "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
     "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
     "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-    "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
-    "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
-    "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
-    "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
-    "https://github.blog/changelog/2026-10-12-github-actions-workflow-lockfiles-in-public-preview"
+    "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:407448963",
@@ -90,21 +90,21 @@
     "qoder:Qoder 0.2.3"
   ],
   "chatgpt": [
-    "learn-chatgpt:github-release-414286110",
     "learn-chatgpt:codex-2026-10-14-gpt-55-retirement",
     "learn-chatgpt:codex-2026-10-09-composer-predictions",
-    "learn-chatgpt:github-release-408271623",
     "learn-chatgpt:codex-2026-10-08-app",
     "learn-chatgpt:codex-2026-10-08-gpt-61-sol-ultrafast",
-    "learn-chatgpt:github-release-407151970",
     "learn-chatgpt:codex-2026-10-07-app",
     "learn-chatgpt:codex-2026-10-07-mobile",
-    "learn-chatgpt:github-release-405921402",
-    "learn-chatgpt:github-release-404001397",
     "learn-chatgpt:codex-2026-10-02-mobile",
     "learn-chatgpt:codex-2026-10-01-app",
-    "learn-chatgpt:github-release-401312540",
-    "learn-chatgpt:github-release-400492869"
+    "learn-chatgpt:codex-2026-09-29-app",
+    "learn-chatgpt:codex-2026-09-29-gpt-61-sol",
+    "learn-chatgpt:codex-2026-09-25-app",
+    "learn-chatgpt:codex-2026-09-23-mobile",
+    "learn-chatgpt:codex-2026-09-22-app",
+    "learn-chatgpt:codex-2026-09-22-gpt-6-sol-luna",
+    "learn-chatgpt:codex-2026-09-18-mobile"
   ],
   "openclaw": [
     "github:openclaw/openclaw:416702414",
@@ -126,10 +126,10 @@
     "github:cline/cline:411805900"
   ],
   "kilocode": [
+    "github:Kilo-Org/kilocode:417842613",
     "github:Kilo-Org/kilocode:415324116",
     "github:Kilo-Org/kilocode:413591741",
-    "github:Kilo-Org/kilocode:414180480",
-    "github:Kilo-Org/kilocode:405650736"
+    "github:Kilo-Org/kilocode:414180480"
   ],
   "devin": [
     "devin:v3.10.67:October 12, 2026",
