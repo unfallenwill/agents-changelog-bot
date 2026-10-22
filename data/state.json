@@ -1,5 +1,7 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.308",
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.307",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.306",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.305",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.304",
@@ -7,13 +9,9 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.302",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.301",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.300",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.299",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.296",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.295"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.299"
   ],
-  "codex": [
-    "github:openai/codex:414286110"
-  ],
+  "codex": [],
   "cursor": [
     "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
     "https://cursor.com/changelog/origin-app-marketplace",
@@ -39,6 +37,7 @@
     "github:anomalyco/opencode:385202354"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
     "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
     "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
     "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
@@ -47,8 +46,7 @@
     "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
     "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
     "https://github.blog/changelog/2026-10-15-some-git-over-https-may-temporarily-require-authentication",
-    "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
-    "https://github.blog/changelog/2026-10-13-open-source-license-compliance-generally-available"
+    "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:407448963",
@@ -90,28 +88,27 @@
     "qoder:Qoder 0.2.3"
   ],
   "chatgpt": [
+    "learn-chatgpt:github-release-414286110",
     "learn-chatgpt:codex-2026-10-14-gpt-55-retirement",
     "learn-chatgpt:codex-2026-10-09-composer-predictions",
+    "learn-chatgpt:github-release-408271623",
     "learn-chatgpt:codex-2026-10-08-app",
     "learn-chatgpt:codex-2026-10-08-gpt-61-sol-ultrafast",
+    "learn-chatgpt:github-release-407151970",
     "learn-chatgpt:codex-2026-10-07-app",
     "learn-chatgpt:codex-2026-10-07-mobile",
+    "learn-chatgpt:github-release-405921402",
+    "learn-chatgpt:github-release-404001397",
     "learn-chatgpt:codex-2026-10-02-mobile",
     "learn-chatgpt:codex-2026-10-01-app",
-    "learn-chatgpt:codex-2026-09-29-app",
-    "learn-chatgpt:codex-2026-09-29-gpt-61-sol",
-    "learn-chatgpt:codex-2026-09-25-app",
-    "learn-chatgpt:codex-2026-09-23-mobile",
-    "learn-chatgpt:codex-2026-09-22-app",
-    "learn-chatgpt:codex-2026-09-22-gpt-6-sol-luna",
-    "learn-chatgpt:codex-2026-09-18-mobile"
+    "learn-chatgpt:github-release-401312540",
+    "learn-chatgpt:github-release-400492869"
   ],
   "openclaw": [
     "github:openclaw/openclaw:416702414",
     "github:openclaw/openclaw:414373481",
     "github:openclaw/openclaw:413634115",
-    "github:openclaw/openclaw:411695418",
-    "github:openclaw/openclaw:410197501"
+    "github:openclaw/openclaw:411695418"
   ],
   "cline": [
     "github:cline/cline:415547955",
