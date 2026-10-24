@@ -1,5 +1,6 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.309",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.308",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.307",
@@ -8,8 +9,7 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.304",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.303",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.302",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.301",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.300"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.301"
   ],
   "codex": [
     "github:openai/codex:421457270"
@@ -39,16 +39,16 @@
     "github:anomalyco/opencode:388581987"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+    "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+    "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+    "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
+    "https://github.blog/changelog/2026-10-20-automate-more-enterprise-workflows-with-github-apps",
     "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
     "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
     "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
     "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-    "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
-    "https://github.blog/changelog/2026-10-22-pull-requests-saved-whitespace-preferences-and-improved-split-view",
-    "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-    "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
-    "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-    "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning"
+    "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:407448963",
@@ -66,6 +66,7 @@
     "github:zai-org/ZCode:395574116"
   ],
   "deepseek-harness": [
+    "github:deepseek-ai/deepseek-harness:422003676",
     "github:deepseek-ai/deepseek-harness:415672626",
     "github:deepseek-ai/deepseek-harness:415599682",
     "github:deepseek-ai/deepseek-harness:414935009",
@@ -74,10 +75,10 @@
     "github:deepseek-ai/deepseek-harness:407834735",
     "github:deepseek-ai/deepseek-harness:402371422",
     "github:deepseek-ai/deepseek-harness:399005027",
-    "github:deepseek-ai/deepseek-harness:398234978",
-    "github:deepseek-ai/deepseek-harness:395756051"
+    "github:deepseek-ai/deepseek-harness:398234978"
   ],
   "qoder": [
+    "qoder:Qoder 0.4.11",
     "qoder:Qoder 0.4.9",
     "qoder:Qoder 0.4.8",
     "qoder:Qoder 0.4.7",
@@ -86,10 +87,11 @@
     "qoder:Qoder 0.4.2",
     "qoder:Qoder 0.4.1",
     "qoder:Qoder 0.3.4",
-    "qoder:Qoder 0.3.3",
-    "qoder:Qoder 0.2.5"
+    "qoder:Qoder 0.3.3"
   ],
   "chatgpt": [
+    "learn-chatgpt:github-release-421457270",
+    "learn-chatgpt:github-release-414286110",
     "learn-chatgpt:codex-2026-10-14-gpt-55-retirement",
     "learn-chatgpt:codex-2026-10-09-composer-predictions",
     "learn-chatgpt:codex-2026-10-08-app",
@@ -102,9 +104,7 @@
     "learn-chatgpt:codex-2026-09-29-gpt-61-sol",
     "learn-chatgpt:codex-2026-09-25-app",
     "learn-chatgpt:codex-2026-09-23-mobile",
-    "learn-chatgpt:codex-2026-09-22-app",
-    "learn-chatgpt:codex-2026-09-22-gpt-6-sol-luna",
-    "learn-chatgpt:codex-2026-09-18-mobile"
+    "learn-chatgpt:codex-2026-09-22-app"
   ],
   "openclaw": [
     "github:openclaw/openclaw:420679217",
@@ -134,6 +134,8 @@
     "github:Kilo-Org/kilocode:414180480"
   ],
   "devin": [
+    "devin:v3.11.216:October 24, 2026",
+    "devin:v3.11.212:October 23, 2026",
     "devin:v3.10.67:October 12, 2026",
     "devin:v3.10.48:September 29, 2026",
     "devin:v3.10.35:September 24, 2026",
@@ -141,8 +143,6 @@
     "devin:v3.10.27:September 15, 2026",
     "devin:v3.10.23:September 10, 2026",
     "devin:v3.9.19:September 8, 2026",
-    "devin:v3.8.20:August 21, 2026",
-    "devin:v3.7.25:August 13, 2026",
-    "devin:v3.7.16:August 10, 2026"
+    "devin:v3.8.20:August 21, 2026"
   ]
 }
