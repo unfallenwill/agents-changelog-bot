@@ -115,16 +115,16 @@
     "github:openclaw/openclaw:413634115"
   ],
   "cline": [
+    "github:cline/cline:423833875",
+    "github:cline/cline:423868519",
+    "github:cline/cline:423847313",
     "github:cline/cline:415547955",
     "github:cline/cline:415584031",
     "github:cline/cline:415571355",
     "github:cline/cline:414630227",
     "github:cline/cline:414517679",
     "github:cline/cline:414638133",
-    "github:cline/cline:414584035",
-    "github:cline/cline:411804449",
-    "github:cline/cline:411452393",
-    "github:cline/cline:411805900"
+    "github:cline/cline:414584035"
   ],
   "kilocode": [
     "github:Kilo-Org/kilocode:421406603",
