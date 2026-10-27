@@ -1,5 +1,6 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.311",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.309",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.308",
@@ -8,13 +9,13 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.305",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.304",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.303",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.302",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.301"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.302"
   ],
   "codex": [
     "github:openai/codex:421457270"
   ],
   "cursor": [
+    "https://cursor.com/changelog/agent-sdk",
     "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
     "https://cursor.com/changelog/origin-app-marketplace",
     "https://cursor.com/changelog/remote-control-local-agents",
@@ -23,8 +24,7 @@
     "https://cursor.com/changelog/self-hosted-machines",
     "https://cursor.com/changelog/start-from-scratch",
     "https://cursor.com/changelog/08-19-26",
-    "https://cursor.com/changelog/origin-code-hosting",
-    "https://cursor.com/changelog/08-13-26"
+    "https://cursor.com/changelog/origin-code-hosting"
   ],
   "opencode": [
     "github:anomalyco/opencode:420695951",
@@ -39,6 +39,8 @@
     "github:anomalyco/opencode:388581987"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+    "https://github.blog/changelog/2026-10-23-gpt-6-1-terra-in-github-copilot",
     "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
     "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
     "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
@@ -46,9 +48,7 @@
     "https://github.blog/changelog/2026-10-20-automate-more-enterprise-workflows-with-github-apps",
     "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
     "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-    "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-    "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
-    "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency"
+    "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:407448963",
@@ -90,9 +90,12 @@
     "qoder:Qoder 0.3.3"
   ],
   "chatgpt": [
+    "learn-chatgpt:codex-2026-10-26-gpt-61-terra",
     "learn-chatgpt:github-release-421457270",
+    "learn-chatgpt:codex-2026-10-22-mobile",
     "learn-chatgpt:github-release-414286110",
     "learn-chatgpt:codex-2026-10-14-gpt-55-retirement",
+    "learn-chatgpt:codex-2026-10-13-mobile",
     "learn-chatgpt:codex-2026-10-09-composer-predictions",
     "learn-chatgpt:github-release-408271623",
     "learn-chatgpt:codex-2026-10-08-app",
@@ -101,20 +104,17 @@
     "learn-chatgpt:codex-2026-10-07-app",
     "learn-chatgpt:codex-2026-10-07-mobile",
     "learn-chatgpt:github-release-405921402",
-    "learn-chatgpt:github-release-404001397",
-    "learn-chatgpt:codex-2026-10-02-mobile",
-    "learn-chatgpt:codex-2026-10-01-app",
-    "learn-chatgpt:github-release-401312540"
+    "learn-chatgpt:github-release-404001397"
   ],
   "openclaw": [
+    "github:openclaw/openclaw:424946995",
     "github:openclaw/openclaw:422577435",
     "github:openclaw/openclaw:422670489",
     "github:openclaw/openclaw:420679217",
-    "github:openclaw/openclaw:416702414",
-    "github:openclaw/openclaw:414373481",
-    "github:openclaw/openclaw:413634115"
+    "github:openclaw/openclaw:416702414"
   ],
   "cline": [
+    "github:cline/cline:424033561",
     "github:cline/cline:423833875",
     "github:cline/cline:423868519",
     "github:cline/cline:423847313",
@@ -123,10 +123,10 @@
     "github:cline/cline:415571355",
     "github:cline/cline:414630227",
     "github:cline/cline:414517679",
-    "github:cline/cline:414638133",
-    "github:cline/cline:414584035"
+    "github:cline/cline:414638133"
   ],
   "kilocode": [
+    "github:Kilo-Org/kilocode:424011964",
     "github:Kilo-Org/kilocode:421406603",
     "github:Kilo-Org/kilocode:420786169",
     "github:Kilo-Org/kilocode:417842613",
@@ -135,6 +135,7 @@
     "github:Kilo-Org/kilocode:414180480"
   ],
   "devin": [
+    "devin:v3.11.228:October 26, 2026",
     "devin:v3.11.216:October 24, 2026",
     "devin:v3.11.212:October 23, 2026",
     "devin:v3.10.67:October 12, 2026",
@@ -143,7 +144,6 @@
     "devin:v3.10.31:September 16, 2026",
     "devin:v3.10.27:September 15, 2026",
     "devin:v3.10.23:September 10, 2026",
-    "devin:v3.9.19:September 8, 2026",
-    "devin:v3.8.20:August 21, 2026"
+    "devin:v3.9.19:September 8, 2026"
   ]
 }
