@@ -1,5 +1,6 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.312",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.311",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
@@ -8,10 +9,10 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.307",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.306",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.305",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.304",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.303"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.304"
   ],
   "codex": [
+    "github:openai/codex:428320524",
     "github:openai/codex:425927431"
   ],
   "cursor": [
@@ -27,18 +28,19 @@
     "https://cursor.com/changelog/origin-code-hosting"
   ],
   "opencode": [
+    "github:anomalyco/opencode:428261052",
     "github:anomalyco/opencode:427491317",
+    "github:anomalyco/opencode:428439544",
+    "github:anomalyco/opencode:428068943",
     "github:anomalyco/opencode:426304080",
     "github:anomalyco/opencode:426890427",
     "github:anomalyco/opencode:425224299",
     "github:anomalyco/opencode:420695951",
     "github:anomalyco/opencode:414915880",
-    "github:anomalyco/opencode:414462645",
-    "github:anomalyco/opencode:414161505",
-    "github:anomalyco/opencode:409318008",
-    "github:anomalyco/opencode:405094028"
+    "github:anomalyco/opencode:414462645"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
     "https://github.blog/changelog/2026-11-26-route-and-orchestrate-models-with-github-copilot-fusion",
     "https://github.blog/changelog/2026-11-26-github-copilot-app-universe-releases",
     "https://github.blog/changelog/2026-11-26-github-enterprise-now-includes-access-to-github-copilot",
@@ -46,9 +48,8 @@
     "https://github.blog/changelog/2026-11-26-github-intelligence-puts-your-code-context-and-history-to-work",
     "https://github.blog/changelog/2026-11-26-build-shared-workflows-for-your-team-with-copilot-automations",
     "https://github.blog/changelog/2026-10-27-github-copilot-in-vs-code-universe-releases",
-    "https://github.blog/changelog/2026-10-26-generate-and-edit-images-directly-in-copilot",
-    "https://github.blog/changelog/2026-10-26-github-copilot-fusion-now-supports-selection-of-local-models",
-    "https://github.blog/changelog/2026-10-27-github-agentic-workflows-generally-available"
+    "https://github.blog/changelog/2026-11-28-repository-plugin-defaults-and-enterprise-plugin-controls-generally-available",
+    "https://github.blog/changelog/2026-10-26-generate-and-edit-images-directly-in-copilot"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:407448963",
@@ -66,6 +67,7 @@
     "github:zai-org/ZCode:395574116"
   ],
   "deepseek-harness": [
+    "github:deepseek-ai/deepseek-harness:428584211",
     "github:deepseek-ai/deepseek-harness:426210803",
     "github:deepseek-ai/deepseek-harness:426210322",
     "github:deepseek-ai/deepseek-harness:422003676",
@@ -74,8 +76,7 @@
     "github:deepseek-ai/deepseek-harness:414935009",
     "github:deepseek-ai/deepseek-harness:413857405",
     "github:deepseek-ai/deepseek-harness:412754851",
-    "github:deepseek-ai/deepseek-harness:407834735",
-    "github:deepseek-ai/deepseek-harness:402371422"
+    "github:deepseek-ai/deepseek-harness:407834735"
   ],
   "qoder": [
     "qoder:Qoder 0.4.11",
@@ -90,6 +91,7 @@
     "qoder:Qoder 0.3.3"
   ],
   "chatgpt": [
+    "learn-chatgpt:github-release-428320524",
     "learn-chatgpt:github-release-425927431",
     "learn-chatgpt:codex-2026-10-26-gpt-61-terra",
     "learn-chatgpt:github-release-421457270",
@@ -103,16 +105,16 @@
     "learn-chatgpt:codex-2026-10-08-gpt-61-sol-ultrafast",
     "learn-chatgpt:github-release-407151970",
     "learn-chatgpt:codex-2026-10-07-app",
-    "learn-chatgpt:codex-2026-10-07-mobile",
-    "learn-chatgpt:github-release-405921402"
+    "learn-chatgpt:codex-2026-10-07-mobile"
   ],
   "openclaw": [
+    "github:openclaw/openclaw:428030713",
+    "github:openclaw/openclaw:428293752",
     "github:openclaw/openclaw:425325509",
     "github:openclaw/openclaw:424946995",
     "github:openclaw/openclaw:422577435",
     "github:openclaw/openclaw:422670489",
-    "github:openclaw/openclaw:420679217",
-    "github:openclaw/openclaw:416702414"
+    "github:openclaw/openclaw:420679217"
   ],
   "cline": [
     "github:cline/cline:424033561",
@@ -132,6 +134,8 @@
     "github:Kilo-Org/kilocode:420786169"
   ],
   "devin": [
+    "devin:v3.11.234:October 29, 2026",
+    "devin:v3.11.231:October 28, 2026",
     "devin:v3.11.228:October 26, 2026",
     "devin:v3.11.216:October 24, 2026",
     "devin:v3.11.212:October 23, 2026",
@@ -139,8 +143,6 @@
     "devin:v3.10.48:September 29, 2026",
     "devin:v3.10.35:September 24, 2026",
     "devin:v3.10.31:September 16, 2026",
-    "devin:v3.10.27:September 15, 2026",
-    "devin:v3.10.23:September 10, 2026",
-    "devin:v3.9.19:September 8, 2026"
+    "devin:v3.10.27:September 15, 2026"
   ]
 }
