@@ -1,5 +1,6 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.312",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.311",
@@ -8,8 +9,7 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.308",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.307",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.306",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.305",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.304"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.305"
   ],
   "codex": [
     "github:openai/codex:428320524",
@@ -28,16 +28,16 @@
     "https://cursor.com/changelog/origin-code-hosting"
   ],
   "opencode": [
+    "github:anomalyco/opencode:429576331",
+    "github:anomalyco/opencode:429279190",
+    "github:anomalyco/opencode:428870907",
     "github:anomalyco/opencode:428261052",
     "github:anomalyco/opencode:427491317",
     "github:anomalyco/opencode:428439544",
     "github:anomalyco/opencode:428068943",
     "github:anomalyco/opencode:426304080",
     "github:anomalyco/opencode:426890427",
-    "github:anomalyco/opencode:425224299",
-    "github:anomalyco/opencode:420695951",
-    "github:anomalyco/opencode:414915880",
-    "github:anomalyco/opencode:414462645"
+    "github:anomalyco/opencode:425224299"
   ],
   "copilot": [
     "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
@@ -52,6 +52,7 @@
     "https://github.blog/changelog/2026-10-26-generate-and-edit-images-directly-in-copilot"
   ],
   "minimax-code": [
+    "github:MiniMax-AI/minimax-code:429709436",
     "github:MiniMax-AI/minimax-code:407448963",
     "github:MiniMax-AI/minimax-code:406546709",
     "github:MiniMax-AI/minimax-code:406384242",
@@ -60,10 +61,10 @@
     "github:MiniMax-AI/minimax-code:401020384",
     "github:MiniMax-AI/minimax-code:399866736",
     "github:MiniMax-AI/minimax-code:399418972",
-    "github:MiniMax-AI/minimax-code:398168640",
-    "github:MiniMax-AI/minimax-code:397983012"
+    "github:MiniMax-AI/minimax-code:398168640"
   ],
   "zcode": [
+    "github:zai-org/ZCode:428836286",
     "github:zai-org/ZCode:395574116"
   ],
   "deepseek-harness": [
@@ -79,6 +80,7 @@
     "github:deepseek-ai/deepseek-harness:407834735"
   ],
   "qoder": [
+    "qoder:Qoder 0.5.1",
     "qoder:Qoder 0.4.11",
     "qoder:Qoder 0.4.9",
     "qoder:Qoder 0.4.8",
@@ -87,8 +89,7 @@
     "qoder:Qoder 0.4.3",
     "qoder:Qoder 0.4.2",
     "qoder:Qoder 0.4.1",
-    "qoder:Qoder 0.3.4",
-    "qoder:Qoder 0.3.3"
+    "qoder:Qoder 0.3.4"
   ],
   "chatgpt": [
     "learn-chatgpt:github-release-428320524",
@@ -134,6 +135,8 @@
     "github:Kilo-Org/kilocode:420786169"
   ],
   "devin": [
+    "devin:v3.11.238:October 30, 2026",
+    "devin:v3.11.235:October 30, 2026",
     "devin:v3.11.234:October 29, 2026",
     "devin:v3.11.231:October 28, 2026",
     "devin:v3.11.228:October 26, 2026",
@@ -141,8 +144,6 @@
     "devin:v3.11.212:October 23, 2026",
     "devin:v3.10.67:October 12, 2026",
     "devin:v3.10.48:September 29, 2026",
-    "devin:v3.10.35:September 24, 2026",
-    "devin:v3.10.31:September 16, 2026",
-    "devin:v3.10.27:September 15, 2026"
+    "devin:v3.10.35:September 24, 2026"
   ]
 }
