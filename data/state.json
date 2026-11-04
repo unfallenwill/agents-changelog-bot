@@ -1,5 +1,6 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
@@ -8,8 +9,7 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.309",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.308",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.307",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.306"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.307"
   ],
   "codex": [
     "github:openai/codex:428320524",
@@ -40,16 +40,16 @@
     "github:anomalyco/opencode:425224299"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+    "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+    "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+    "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+    "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+    "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+    "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
     "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
     "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-    "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
-    "https://github.blog/changelog/2026-11-26-route-and-orchestrate-models-with-github-copilot-fusion",
-    "https://github.blog/changelog/2026-11-26-github-copilot-app-universe-releases",
-    "https://github.blog/changelog/2026-11-26-github-enterprise-now-includes-access-to-github-copilot",
-    "https://github.blog/changelog/2026-11-26-security-extension-for-the-github-copilot-app",
-    "https://github.blog/changelog/2026-11-26-github-intelligence-puts-your-code-context-and-history-to-work",
-    "https://github.blog/changelog/2026-11-26-build-shared-workflows-for-your-team-with-copilot-automations",
-    "https://github.blog/changelog/2026-10-27-github-copilot-in-vs-code-universe-releases"
+    "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:429709436",
@@ -68,6 +68,7 @@
     "github:zai-org/ZCode:395574116"
   ],
   "deepseek-harness": [
+    "github:deepseek-ai/deepseek-harness:432408236",
     "github:deepseek-ai/deepseek-harness:428584211",
     "github:deepseek-ai/deepseek-harness:426210803",
     "github:deepseek-ai/deepseek-harness:426210322",
@@ -76,10 +77,10 @@
     "github:deepseek-ai/deepseek-harness:415599682",
     "github:deepseek-ai/deepseek-harness:414935009",
     "github:deepseek-ai/deepseek-harness:413857405",
-    "github:deepseek-ai/deepseek-harness:412754851",
-    "github:deepseek-ai/deepseek-harness:407834735"
+    "github:deepseek-ai/deepseek-harness:412754851"
   ],
   "qoder": [
+    "qoder:Qoder 0.5.3",
     "qoder:Qoder 0.5.2",
     "qoder:Qoder 0.5.1",
     "qoder:Qoder 0.4.11",
@@ -88,8 +89,7 @@
     "qoder:Qoder 0.4.7",
     "qoder:Qoder 0.4.4",
     "qoder:Qoder 0.4.3",
-    "qoder:Qoder 0.4.2",
-    "qoder:Qoder 0.4.1"
+    "qoder:Qoder 0.4.2"
   ],
   "chatgpt": [
     "learn-chatgpt:github-release-428320524",
@@ -115,8 +115,7 @@
     "github:openclaw/openclaw:425325509",
     "github:openclaw/openclaw:424946995",
     "github:openclaw/openclaw:422577435",
-    "github:openclaw/openclaw:422670489",
-    "github:openclaw/openclaw:420679217"
+    "github:openclaw/openclaw:422670489"
   ],
   "cline": [
     "github:cline/cline:424033561",
