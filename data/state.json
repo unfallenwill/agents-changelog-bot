@@ -12,9 +12,10 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.307"
   ],
   "codex": [
-    "github:openai/codex:428320524"
+    "github:openai/codex:435979892"
   ],
   "cursor": [
+    "https://cursor.com/changelog/build-live-apps",
     "https://cursor.com/changelog/agent-sdk",
     "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
     "https://cursor.com/changelog/origin-app-marketplace",
@@ -23,10 +24,10 @@
     "https://cursor.com/changelog/projects",
     "https://cursor.com/changelog/self-hosted-machines",
     "https://cursor.com/changelog/start-from-scratch",
-    "https://cursor.com/changelog/08-19-26",
-    "https://cursor.com/changelog/origin-code-hosting"
+    "https://cursor.com/changelog/08-19-26"
   ],
   "opencode": [
+    "github:anomalyco/opencode:435519567",
     "github:anomalyco/opencode:429576331",
     "github:anomalyco/opencode:429279190",
     "github:anomalyco/opencode:428870907",
@@ -35,20 +36,19 @@
     "github:anomalyco/opencode:428439544",
     "github:anomalyco/opencode:428068943",
     "github:anomalyco/opencode:426304080",
-    "github:anomalyco/opencode:426890427",
-    "github:anomalyco/opencode:425224299"
+    "github:anomalyco/opencode:426890427"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+    "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+    "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
+    "https://github.blog/changelog/2026-12-05-new-pull-request-overview-page-in-public-preview",
     "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
     "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
     "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
     "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
     "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-    "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-    "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-    "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
-    "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
-    "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status"
+    "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:429709436",
@@ -80,6 +80,7 @@
     "github:deepseek-ai/deepseek-harness:413857405"
   ],
   "qoder": [
+    "qoder:Qoder 0.5.5",
     "qoder:Qoder 0.5.3",
     "qoder:Qoder 0.5.2",
     "qoder:Qoder 0.5.1",
@@ -88,10 +89,11 @@
     "qoder:Qoder 0.4.8",
     "qoder:Qoder 0.4.7",
     "qoder:Qoder 0.4.4",
-    "qoder:Qoder 0.4.3",
-    "qoder:Qoder 0.4.2"
+    "qoder:Qoder 0.4.3"
   ],
   "chatgpt": [
+    "learn-chatgpt:github-release-435979892",
+    "learn-chatgpt:codex-2026-11-02-mobile",
     "learn-chatgpt:github-release-428320524",
     "learn-chatgpt:codex-2026-10-27-mobile",
     "learn-chatgpt:github-release-425927431",
@@ -104,18 +106,16 @@
     "learn-chatgpt:codex-2026-10-09-composer-predictions",
     "learn-chatgpt:github-release-408271623",
     "learn-chatgpt:codex-2026-10-08-app",
-    "learn-chatgpt:codex-2026-10-08-gpt-61-sol-ultrafast",
-    "learn-chatgpt:github-release-407151970",
-    "learn-chatgpt:codex-2026-10-07-app"
+    "learn-chatgpt:codex-2026-10-08-gpt-61-sol-ultrafast"
   ],
   "openclaw": [
+    "github:openclaw/openclaw:434965962",
     "github:openclaw/openclaw:432191584",
     "github:openclaw/openclaw:428030713",
     "github:openclaw/openclaw:428293752",
     "github:openclaw/openclaw:425325509",
     "github:openclaw/openclaw:424946995",
-    "github:openclaw/openclaw:422577435",
-    "github:openclaw/openclaw:422670489"
+    "github:openclaw/openclaw:422577435"
   ],
   "cline": [
     "github:cline/cline:424033561",
@@ -130,6 +130,7 @@
     "github:cline/cline:414638133"
   ],
   "kilocode": [
+    "github:Kilo-Org/kilocode:435156433",
     "github:Kilo-Org/kilocode:424011964",
     "github:Kilo-Org/kilocode:421406603"
   ],
