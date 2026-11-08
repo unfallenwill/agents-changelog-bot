@@ -131,11 +131,10 @@
   ],
   "kilocode": [
     "github:Kilo-Org/kilocode:435156433",
-    "github:Kilo-Org/kilocode:424011964",
-    "github:Kilo-Org/kilocode:421406603"
+    "github:Kilo-Org/kilocode:424011964"
   ],
   "devin": [
-    "devin:v3.12.17:November 6, 2026",
+    "devin:v3.12.28:November 7, 2026",
     "devin:v3.11.238:October 30, 2026",
     "devin:v3.11.235:October 30, 2026",
     "devin:v3.11.234:October 29, 2026",
