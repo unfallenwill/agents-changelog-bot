@@ -109,13 +109,13 @@
     "learn-chatgpt:codex-2026-10-08-gpt-61-sol-ultrafast"
   ],
   "openclaw": [
+    "github:openclaw/openclaw:438143985",
     "github:openclaw/openclaw:434965962",
     "github:openclaw/openclaw:432191584",
     "github:openclaw/openclaw:428030713",
     "github:openclaw/openclaw:428293752",
     "github:openclaw/openclaw:425325509",
-    "github:openclaw/openclaw:424946995",
-    "github:openclaw/openclaw:422577435"
+    "github:openclaw/openclaw:424946995"
   ],
   "cline": [
     "github:cline/cline:424033561",
@@ -134,7 +134,7 @@
     "github:Kilo-Org/kilocode:424011964"
   ],
   "devin": [
-    "devin:v3.12.28:November 7, 2026",
+    "devin:v3.12.32:November 8, 2026",
     "devin:v3.11.238:October 30, 2026",
     "devin:v3.11.235:October 30, 2026",
     "devin:v3.11.234:October 29, 2026",
