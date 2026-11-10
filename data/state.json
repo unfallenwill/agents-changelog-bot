@@ -1,5 +1,7 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.321",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
@@ -7,9 +9,7 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.312",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.311",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.309",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.308"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.310"
   ],
   "codex": [
     "github:openai/codex:435979892"
@@ -39,6 +39,8 @@
     "github:anomalyco/opencode:426304080"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot",
+    "https://github.blog/changelog/2026-11-05-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
     "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
     "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
     "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
@@ -46,9 +48,7 @@
     "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
     "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
     "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
-    "https://github.blog/changelog/2026-12-05-new-pull-request-overview-page-in-public-preview",
-    "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
-    "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant"
+    "https://github.blog/changelog/2026-12-05-new-pull-request-overview-page-in-public-preview"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:429709436",
@@ -80,6 +80,7 @@
     "github:deepseek-ai/deepseek-harness:413857405"
   ],
   "qoder": [
+    "qoder:Qoder 0.5.7",
     "qoder:Qoder 0.5.6",
     "qoder:Qoder 0.5.5",
     "qoder:Qoder 0.5.3",
@@ -88,8 +89,7 @@
     "qoder:Qoder 0.4.11",
     "qoder:Qoder 0.4.9",
     "qoder:Qoder 0.4.8",
-    "qoder:Qoder 0.4.7",
-    "qoder:Qoder 0.4.4"
+    "qoder:Qoder 0.4.7"
   ],
   "chatgpt": [
     "learn-chatgpt:github-release-435979892",
@@ -134,6 +134,7 @@
     "github:Kilo-Org/kilocode:424011964"
   ],
   "devin": [
+    "devin:v3.12.43:November 9, 2026",
     "devin:v3.12.32:November 8, 2026",
     "devin:v3.11.238:October 30, 2026",
     "devin:v3.11.235:October 30, 2026",
@@ -142,7 +143,6 @@
     "devin:v3.11.228:October 26, 2026",
     "devin:v3.11.216:October 24, 2026",
     "devin:v3.11.212:October 23, 2026",
-    "devin:v3.10.67:October 12, 2026",
-    "devin:v3.10.48:September 29, 2026"
+    "devin:v3.10.67:October 12, 2026"
   ]
 }
