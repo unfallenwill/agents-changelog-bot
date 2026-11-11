@@ -12,6 +12,7 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.310"
   ],
   "codex": [
+    "github:openai/codex:440934118",
     "github:openai/codex:435979892"
   ],
   "cursor": [
@@ -27,6 +28,7 @@
     "https://cursor.com/changelog/start-from-scratch"
   ],
   "opencode": [
+    "github:anomalyco/opencode:440226160",
     "github:anomalyco/opencode:437181287",
     "github:anomalyco/opencode:435519567",
     "github:anomalyco/opencode:429576331",
@@ -35,20 +37,19 @@
     "github:anomalyco/opencode:428261052",
     "github:anomalyco/opencode:427491317",
     "github:anomalyco/opencode:428439544",
-    "github:anomalyco/opencode:428068943",
-    "github:anomalyco/opencode:426304080"
+    "github:anomalyco/opencode:428068943"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-11-06-github-app-support-for-enterprise-copilot-seat-management",
+    "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
+    "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
+    "https://github.blog/changelog/2026-11-05-dependabot-alerts-will-pause-on-inactive-repositories",
+    "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
     "https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot",
     "https://github.blog/changelog/2026-11-05-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
     "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
     "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
-    "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-    "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-    "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
-    "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
-    "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
-    "https://github.blog/changelog/2026-12-05-new-pull-request-overview-page-in-public-preview"
+    "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:429709436",
@@ -92,6 +93,7 @@
     "qoder:Qoder 0.4.7"
   ],
   "chatgpt": [
+    "learn-chatgpt:github-release-440934118",
     "learn-chatgpt:github-release-435979892",
     "learn-chatgpt:codex-2026-11-02-mobile",
     "learn-chatgpt:github-release-428320524",
@@ -105,17 +107,16 @@
     "learn-chatgpt:codex-2026-10-13-mobile",
     "learn-chatgpt:codex-2026-10-09-composer-predictions",
     "learn-chatgpt:github-release-408271623",
-    "learn-chatgpt:codex-2026-10-08-app",
-    "learn-chatgpt:codex-2026-10-08-gpt-61-sol-ultrafast"
+    "learn-chatgpt:codex-2026-10-08-app"
   ],
   "openclaw": [
+    "github:openclaw/openclaw:440627284",
+    "github:openclaw/openclaw:440808653",
     "github:openclaw/openclaw:438143985",
     "github:openclaw/openclaw:434965962",
     "github:openclaw/openclaw:432191584",
     "github:openclaw/openclaw:428030713",
-    "github:openclaw/openclaw:428293752",
-    "github:openclaw/openclaw:425325509",
-    "github:openclaw/openclaw:424946995"
+    "github:openclaw/openclaw:428293752"
   ],
   "cline": [
     "github:cline/cline:424033561",
