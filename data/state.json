@@ -12,8 +12,8 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.310"
   ],
   "codex": [
-    "github:openai/codex:440934118",
-    "github:openai/codex:435979892"
+    "github:openai/codex:442267349",
+    "github:openai/codex:440934118"
   ],
   "cursor": [
     "https://cursor.com/changelog/voice-chat",
@@ -28,6 +28,7 @@
     "https://cursor.com/changelog/start-from-scratch"
   ],
   "opencode": [
+    "github:anomalyco/opencode:442212713",
     "github:anomalyco/opencode:440226160",
     "github:anomalyco/opencode:437181287",
     "github:anomalyco/opencode:435519567",
@@ -36,10 +37,10 @@
     "github:anomalyco/opencode:428870907",
     "github:anomalyco/opencode:428261052",
     "github:anomalyco/opencode:427491317",
-    "github:anomalyco/opencode:428439544",
-    "github:anomalyco/opencode:428068943"
+    "github:anomalyco/opencode:428439544"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
     "https://github.blog/changelog/2026-11-06-github-app-support-for-enterprise-copilot-seat-management",
     "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
     "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
@@ -48,8 +49,7 @@
     "https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot",
     "https://github.blog/changelog/2026-11-05-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
     "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-    "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
-    "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2"
+    "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:429709436",
@@ -69,6 +69,7 @@
     "github:zai-org/ZCode:395574116"
   ],
   "deepseek-harness": [
+    "github:deepseek-ai/deepseek-harness:441607356",
     "github:deepseek-ai/deepseek-harness:433935433",
     "github:deepseek-ai/deepseek-harness:432408236",
     "github:deepseek-ai/deepseek-harness:428584211",
@@ -77,8 +78,7 @@
     "github:deepseek-ai/deepseek-harness:422003676",
     "github:deepseek-ai/deepseek-harness:415672626",
     "github:deepseek-ai/deepseek-harness:415599682",
-    "github:deepseek-ai/deepseek-harness:414935009",
-    "github:deepseek-ai/deepseek-harness:413857405"
+    "github:deepseek-ai/deepseek-harness:414935009"
   ],
   "qoder": [
     "qoder:Qoder 0.5.7",
@@ -93,6 +93,7 @@
     "qoder:Qoder 0.4.7"
   ],
   "chatgpt": [
+    "learn-chatgpt:github-release-442267349",
     "learn-chatgpt:github-release-440934118",
     "learn-chatgpt:github-release-435979892",
     "learn-chatgpt:codex-2026-11-02-mobile",
@@ -106,8 +107,7 @@
     "learn-chatgpt:codex-2026-10-14-gpt-55-retirement",
     "learn-chatgpt:codex-2026-10-13-mobile",
     "learn-chatgpt:codex-2026-10-09-composer-predictions",
-    "learn-chatgpt:github-release-408271623",
-    "learn-chatgpt:codex-2026-10-08-app"
+    "learn-chatgpt:github-release-408271623"
   ],
   "openclaw": [
     "github:openclaw/openclaw:440627284",
@@ -131,8 +131,7 @@
     "github:cline/cline:414638133"
   ],
   "kilocode": [
-    "github:Kilo-Org/kilocode:435156433",
-    "github:Kilo-Org/kilocode:424011964"
+    "github:Kilo-Org/kilocode:435156433"
   ],
   "devin": [
     "devin:v3.12.43:November 9, 2026",
