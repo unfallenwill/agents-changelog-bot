@@ -1,5 +1,6 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.321",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
@@ -8,12 +9,11 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.312",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.311",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.310"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.311"
   ],
   "codex": [
-    "github:openai/codex:442267349",
-    "github:openai/codex:440934118"
+    "github:openai/codex:443793906",
+    "github:openai/codex:442267349"
   ],
   "cursor": [
     "https://cursor.com/changelog/voice-chat",
@@ -40,16 +40,16 @@
     "github:anomalyco/opencode:428439544"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
+    "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
+    "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
     "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
     "https://github.blog/changelog/2026-11-06-github-app-support-for-enterprise-copilot-seat-management",
     "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
     "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
     "https://github.blog/changelog/2026-11-05-dependabot-alerts-will-pause-on-inactive-repositories",
     "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-    "https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot",
-    "https://github.blog/changelog/2026-11-05-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
-    "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-    "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage"
+    "https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:429709436",
@@ -93,7 +93,9 @@
     "qoder:Qoder 0.4.7"
   ],
   "chatgpt": [
+    "learn-chatgpt:github-release-443793906",
     "learn-chatgpt:github-release-442267349",
+    "learn-chatgpt:codex-2026-11-10-mobile",
     "learn-chatgpt:github-release-440934118",
     "learn-chatgpt:github-release-435979892",
     "learn-chatgpt:codex-2026-11-02-mobile",
@@ -105,9 +107,7 @@
     "learn-chatgpt:codex-2026-10-22-mobile",
     "learn-chatgpt:github-release-414286110",
     "learn-chatgpt:codex-2026-10-14-gpt-55-retirement",
-    "learn-chatgpt:codex-2026-10-13-mobile",
-    "learn-chatgpt:codex-2026-10-09-composer-predictions",
-    "learn-chatgpt:github-release-408271623"
+    "learn-chatgpt:codex-2026-10-13-mobile"
   ],
   "openclaw": [
     "github:openclaw/openclaw:440627284",
@@ -134,6 +134,8 @@
     "github:Kilo-Org/kilocode:435156433"
   ],
   "devin": [
+    "devin:v3.12.59:November 12, 2026",
+    "devin:v3.12.57:November 12, 2026",
     "devin:v3.12.43:November 9, 2026",
     "devin:v3.12.32:November 8, 2026",
     "devin:v3.11.238:October 30, 2026",
@@ -141,8 +143,6 @@
     "devin:v3.11.234:October 29, 2026",
     "devin:v3.11.231:October 28, 2026",
     "devin:v3.11.228:October 26, 2026",
-    "devin:v3.11.216:October 24, 2026",
-    "devin:v3.11.212:October 23, 2026",
-    "devin:v3.10.67:October 12, 2026"
+    "devin:v3.11.216:October 24, 2026"
   ]
 }
