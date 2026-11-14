@@ -1,5 +1,6 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.321",
@@ -8,10 +9,10 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.312",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.311"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.312"
   ],
   "codex": [
+    "github:openai/codex:443990865",
     "github:openai/codex:443793906",
     "github:openai/codex:442267349"
   ],
@@ -28,6 +29,7 @@
     "https://cursor.com/changelog/start-from-scratch"
   ],
   "opencode": [
+    "github:anomalyco/opencode:444009048",
     "github:anomalyco/opencode:442212713",
     "github:anomalyco/opencode:440226160",
     "github:anomalyco/opencode:437181287",
@@ -36,20 +38,19 @@
     "github:anomalyco/opencode:429279190",
     "github:anomalyco/opencode:428870907",
     "github:anomalyco/opencode:428261052",
-    "github:anomalyco/opencode:427491317",
-    "github:anomalyco/opencode:428439544"
+    "github:anomalyco/opencode:427491317"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-11-12-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+    "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+    "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+    "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
     "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
     "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
     "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
     "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
     "https://github.blog/changelog/2026-11-06-github-app-support-for-enterprise-copilot-seat-management",
-    "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot",
-    "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-    "https://github.blog/changelog/2026-11-05-dependabot-alerts-will-pause-on-inactive-repositories",
-    "https://github.blog/changelog/2026-11-10-a-more-informative-github-dashboard",
-    "https://github.blog/changelog/2026-11-09-claude-fable-5-5-in-github-copilot"
+    "https://github.blog/changelog/2026-11-09-gemini-4-carbon-in-github-copilot"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:429709436",
@@ -69,6 +70,7 @@
     "github:zai-org/ZCode:395574116"
   ],
   "deepseek-harness": [
+    "github:deepseek-ai/deepseek-harness:443956880",
     "github:deepseek-ai/deepseek-harness:441607356",
     "github:deepseek-ai/deepseek-harness:433935433",
     "github:deepseek-ai/deepseek-harness:432408236",
@@ -77,10 +79,10 @@
     "github:deepseek-ai/deepseek-harness:426210322",
     "github:deepseek-ai/deepseek-harness:422003676",
     "github:deepseek-ai/deepseek-harness:415672626",
-    "github:deepseek-ai/deepseek-harness:415599682",
-    "github:deepseek-ai/deepseek-harness:414935009"
+    "github:deepseek-ai/deepseek-harness:415599682"
   ],
   "qoder": [
+    "qoder:Qoder 0.5.11",
     "qoder:Qoder 0.5.7",
     "qoder:Qoder 0.5.6",
     "qoder:Qoder 0.5.5",
@@ -89,10 +91,10 @@
     "qoder:Qoder 0.5.1",
     "qoder:Qoder 0.4.11",
     "qoder:Qoder 0.4.9",
-    "qoder:Qoder 0.4.8",
-    "qoder:Qoder 0.4.7"
+    "qoder:Qoder 0.4.8"
   ],
   "chatgpt": [
+    "learn-chatgpt:github-release-443990865",
     "learn-chatgpt:github-release-443793906",
     "learn-chatgpt:github-release-442267349",
     "learn-chatgpt:codex-2026-11-10-mobile",
@@ -106,8 +108,7 @@
     "learn-chatgpt:github-release-421457270",
     "learn-chatgpt:codex-2026-10-22-mobile",
     "learn-chatgpt:github-release-414286110",
-    "learn-chatgpt:codex-2026-10-14-gpt-55-retirement",
-    "learn-chatgpt:codex-2026-10-13-mobile"
+    "learn-chatgpt:codex-2026-10-14-gpt-55-retirement"
   ],
   "openclaw": [
     "github:openclaw/openclaw:440627284",
