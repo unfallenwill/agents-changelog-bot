@@ -82,6 +82,7 @@
     "github:deepseek-ai/deepseek-harness:415599682"
   ],
   "qoder": [
+    "qoder:Qoder 0.5.12",
     "qoder:Qoder 0.5.11",
     "qoder:Qoder 0.5.7",
     "qoder:Qoder 0.5.6",
@@ -90,8 +91,7 @@
     "qoder:Qoder 0.5.2",
     "qoder:Qoder 0.5.1",
     "qoder:Qoder 0.4.11",
-    "qoder:Qoder 0.4.9",
-    "qoder:Qoder 0.4.8"
+    "qoder:Qoder 0.4.9"
   ],
   "chatgpt": [
     "learn-chatgpt:github-release-443990865",
@@ -116,8 +116,7 @@
     "github:openclaw/openclaw:438143985",
     "github:openclaw/openclaw:434965962",
     "github:openclaw/openclaw:432191584",
-    "github:openclaw/openclaw:428030713",
-    "github:openclaw/openclaw:428293752"
+    "github:openclaw/openclaw:428030713"
   ],
   "cline": [
     "github:cline/cline:424033561",
