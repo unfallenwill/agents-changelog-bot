@@ -13,8 +13,7 @@
   ],
   "codex": [
     "github:openai/codex:443990865",
-    "github:openai/codex:443793906",
-    "github:openai/codex:442267349"
+    "github:openai/codex:443793906"
   ],
   "cursor": [
     "https://cursor.com/changelog/voice-chat",
@@ -65,6 +64,7 @@
     "github:MiniMax-AI/minimax-code:398168640"
   ],
   "zcode": [
+    "github:zai-org/ZCode:444292103",
     "github:zai-org/ZCode:433736059",
     "github:zai-org/ZCode:428836286",
     "github:zai-org/ZCode:395574116"
@@ -111,12 +111,12 @@
     "learn-chatgpt:codex-2026-10-14-gpt-55-retirement"
   ],
   "openclaw": [
+    "github:openclaw/openclaw:446539713",
     "github:openclaw/openclaw:440627284",
     "github:openclaw/openclaw:440808653",
     "github:openclaw/openclaw:438143985",
     "github:openclaw/openclaw:434965962",
-    "github:openclaw/openclaw:432191584",
-    "github:openclaw/openclaw:428030713"
+    "github:openclaw/openclaw:432191584"
   ],
   "cline": [
     "github:cline/cline:424033561",
