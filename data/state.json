@@ -1,5 +1,6 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.327",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
@@ -8,11 +9,11 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.314"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.316"
   ],
   "codex": [
-    "github:openai/codex:443990865"
+    "github:openai/codex:449494076",
+    "github:openai/codex:449266447"
   ],
   "cursor": [
     "https://cursor.com/changelog/voice-chat",
@@ -27,6 +28,8 @@
     "https://cursor.com/changelog/start-from-scratch"
   ],
   "opencode": [
+    "github:anomalyco/opencode:449412892",
+    "github:anomalyco/opencode:449357915",
     "github:anomalyco/opencode:448257298",
     "github:anomalyco/opencode:447752835",
     "github:anomalyco/opencode:444009048",
@@ -34,21 +37,19 @@
     "github:anomalyco/opencode:440226160",
     "github:anomalyco/opencode:437181287",
     "github:anomalyco/opencode:435519567",
-    "github:anomalyco/opencode:429576331",
-    "github:anomalyco/opencode:429279190",
-    "github:anomalyco/opencode:428870907"
+    "github:anomalyco/opencode:429576331"
   ],
   "copilot": [
-    "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
-    "https://github.blog/changelog/2026-11-16-github-copilot-weekly-releases-november-9",
-    "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
-    "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
-    "https://github.blog/changelog/2026-11-16-control-where-github-copilot-customizations-come-from",
-    "https://github.blog/changelog/2026-11-16-vs-code-retires-the-local-harness-in-february-2027",
-    "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
-    "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
-    "https://github.blog/changelog/2026-11-12-upcoming-deprecation-of-selected-github-copilot-models-in-december",
-    "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app"
+    "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+    "https://github.blog/changelog/2026-11-16-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+    "https://github.blog/changelog/2026-11-16-github-copilot-app-microsoft-ignite-releases",
+    "https://github.blog/changelog/2026-11-16-copilot-code-review-adaptive-effort-secret-detection-and-more",
+    "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+    "https://github.blog/changelog/2026-11-13-github-copilot-in-jetbrains-ignite-releases",
+    "https://github.blog/changelog/2026-11-16-monitor-github-copilot-activity-through-microsoft-agent-365",
+    "https://github.blog/changelog/2026-11-16-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+    "https://github.blog/changelog/2026-11-16-track-copilot-code-review-outcomes-in-repository-insights",
+    "https://github.blog/changelog/2026-11-16-github-copilot-evals-is-now-in-public-preview"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:429709436",
@@ -69,6 +70,7 @@
     "github:zai-org/ZCode:395574116"
   ],
   "deepseek-harness": [
+    "github:deepseek-ai/deepseek-harness:448996768",
     "github:deepseek-ai/deepseek-harness:443956880",
     "github:deepseek-ai/deepseek-harness:441607356",
     "github:deepseek-ai/deepseek-harness:433935433",
@@ -77,10 +79,10 @@
     "github:deepseek-ai/deepseek-harness:426210803",
     "github:deepseek-ai/deepseek-harness:426210322",
     "github:deepseek-ai/deepseek-harness:422003676",
-    "github:deepseek-ai/deepseek-harness:415672626",
-    "github:deepseek-ai/deepseek-harness:415599682"
+    "github:deepseek-ai/deepseek-harness:415672626"
   ],
   "qoder": [
+    "qoder:Qoder 0.5.14",
     "qoder:Qoder 0.5.13",
     "qoder:Qoder 0.5.12",
     "qoder:Qoder 0.5.11",
@@ -89,33 +91,33 @@
     "qoder:Qoder 0.5.5",
     "qoder:Qoder 0.5.3",
     "qoder:Qoder 0.5.2",
-    "qoder:Qoder 0.5.1",
-    "qoder:Qoder 0.4.11"
+    "qoder:Qoder 0.5.1"
   ],
   "chatgpt": [
+    "learn-chatgpt:github-release-449494076",
+    "learn-chatgpt:codex-gpt-62-astra",
+    "learn-chatgpt:github-release-449266447",
     "learn-chatgpt:github-release-443990865",
     "learn-chatgpt:github-release-443793906",
+    "learn-chatgpt:codex-2026-11-12-app",
     "learn-chatgpt:github-release-442267349",
+    "learn-chatgpt:codex-2026-11-10-app",
     "learn-chatgpt:codex-2026-11-10-mobile",
     "learn-chatgpt:github-release-440934118",
     "learn-chatgpt:github-release-435979892",
+    "learn-chatgpt:codex-2026-11-05-app",
+    "learn-chatgpt:codex-2026-11-03-app",
     "learn-chatgpt:codex-2026-11-02-mobile",
-    "learn-chatgpt:github-release-428320524",
-    "learn-chatgpt:codex-2026-10-27-mobile",
-    "learn-chatgpt:github-release-425927431",
-    "learn-chatgpt:codex-2026-10-26-gpt-61-terra",
-    "learn-chatgpt:github-release-421457270",
-    "learn-chatgpt:codex-2026-10-22-mobile",
-    "learn-chatgpt:github-release-414286110",
-    "learn-chatgpt:codex-2026-10-14-gpt-55-retirement"
+    "learn-chatgpt:codex-2026-10-29-app"
   ],
   "openclaw": [
+    "github:openclaw/openclaw:449438362",
+    "github:openclaw/openclaw:448312352",
     "github:openclaw/openclaw:446539713",
     "github:openclaw/openclaw:440627284",
     "github:openclaw/openclaw:440808653",
     "github:openclaw/openclaw:438143985",
-    "github:openclaw/openclaw:434965962",
-    "github:openclaw/openclaw:432191584"
+    "github:openclaw/openclaw:434965962"
   ],
   "cline": [
     "github:cline/cline:424033561",
@@ -133,6 +135,7 @@
     "github:Kilo-Org/kilocode:435156433"
   ],
   "devin": [
+    "devin:v3.14.30819:November 17, 2026",
     "devin:v3.13.4:November 17, 2026",
     "devin:v3.12.59:November 12, 2026",
     "devin:v3.12.57:November 12, 2026",
@@ -141,7 +144,6 @@
     "devin:v3.11.238:October 30, 2026",
     "devin:v3.11.235:October 30, 2026",
     "devin:v3.11.234:October 29, 2026",
-    "devin:v3.11.231:October 28, 2026",
-    "devin:v3.11.228:October 26, 2026"
+    "devin:v3.11.231:October 28, 2026"
   ]
 }
