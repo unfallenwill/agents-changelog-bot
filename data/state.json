@@ -1,5 +1,6 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.328",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.327",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
@@ -8,8 +9,7 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.321",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.316"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.317"
   ],
   "codex": [
     "github:openai/codex:449494076",
@@ -40,16 +40,16 @@
     "github:anomalyco/opencode:429576331"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
+    "https://github.blog/changelog/2026-11-18-connect-supabase-clickup-buildkite-and-more-to-copilot",
+    "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
+    "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
+    "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
     "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
     "https://github.blog/changelog/2026-11-16-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
     "https://github.blog/changelog/2026-11-16-github-copilot-app-microsoft-ignite-releases",
     "https://github.blog/changelog/2026-11-16-copilot-code-review-adaptive-effort-secret-detection-and-more",
-    "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-    "https://github.blog/changelog/2026-11-13-github-copilot-in-jetbrains-ignite-releases",
-    "https://github.blog/changelog/2026-11-16-monitor-github-copilot-activity-through-microsoft-agent-365",
-    "https://github.blog/changelog/2026-11-16-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-    "https://github.blog/changelog/2026-11-16-track-copilot-code-review-outcomes-in-repository-insights",
-    "https://github.blog/changelog/2026-11-16-github-copilot-evals-is-now-in-public-preview"
+    "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:429709436",
@@ -70,6 +70,7 @@
     "github:zai-org/ZCode:395574116"
   ],
   "deepseek-harness": [
+    "github:deepseek-ai/deepseek-harness:449981867",
     "github:deepseek-ai/deepseek-harness:448996768",
     "github:deepseek-ai/deepseek-harness:443956880",
     "github:deepseek-ai/deepseek-harness:441607356",
@@ -78,8 +79,7 @@
     "github:deepseek-ai/deepseek-harness:428584211",
     "github:deepseek-ai/deepseek-harness:426210803",
     "github:deepseek-ai/deepseek-harness:426210322",
-    "github:deepseek-ai/deepseek-harness:422003676",
-    "github:deepseek-ai/deepseek-harness:415672626"
+    "github:deepseek-ai/deepseek-harness:422003676"
   ],
   "qoder": [
     "qoder:Qoder 0.5.14",
@@ -135,6 +135,7 @@
     "github:Kilo-Org/kilocode:435156433"
   ],
   "devin": [
+    "devin:v3.14.30825:November 18, 2026",
     "devin:v3.14.30819:November 17, 2026",
     "devin:v3.13.4:November 17, 2026",
     "devin:v3.12.59:November 12, 2026",
@@ -143,7 +144,6 @@
     "devin:v3.12.32:November 8, 2026",
     "devin:v3.11.238:October 30, 2026",
     "devin:v3.11.235:October 30, 2026",
-    "devin:v3.11.234:October 29, 2026",
-    "devin:v3.11.231:October 28, 2026"
+    "devin:v3.11.234:October 29, 2026"
   ]
 }
