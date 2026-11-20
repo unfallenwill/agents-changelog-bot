@@ -1,5 +1,6 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.328",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.327",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
@@ -8,10 +9,10 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.321",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.317"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.318"
   ],
   "codex": [
+    "github:openai/codex:452122665",
     "github:openai/codex:449494076",
     "github:openai/codex:449266447"
   ],
@@ -40,16 +41,16 @@
     "github:anomalyco/opencode:429576331"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+    "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+    "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+    "https://github.blog/changelog/2026-11-17-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
     "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
     "https://github.blog/changelog/2026-11-18-connect-supabase-clickup-buildkite-and-more-to-copilot",
     "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
     "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
     "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
-    "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
-    "https://github.blog/changelog/2026-11-16-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-    "https://github.blog/changelog/2026-11-16-github-copilot-app-microsoft-ignite-releases",
-    "https://github.blog/changelog/2026-11-16-copilot-code-review-adaptive-effort-secret-detection-and-more",
-    "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot"
+    "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:429709436",
@@ -82,6 +83,7 @@
     "github:deepseek-ai/deepseek-harness:422003676"
   ],
   "qoder": [
+    "qoder:Qoder 0.5.16",
     "qoder:Qoder 0.5.14",
     "qoder:Qoder 0.5.13",
     "qoder:Qoder 0.5.12",
@@ -90,10 +92,11 @@
     "qoder:Qoder 0.5.6",
     "qoder:Qoder 0.5.5",
     "qoder:Qoder 0.5.3",
-    "qoder:Qoder 0.5.2",
-    "qoder:Qoder 0.5.1"
+    "qoder:Qoder 0.5.2"
   ],
   "chatgpt": [
+    "learn-chatgpt:github-release-452122665",
+    "learn-chatgpt:codex-2026-11-18-mobile",
     "learn-chatgpt:github-release-449494076",
     "learn-chatgpt:codex-gpt-62-astra",
     "learn-chatgpt:github-release-449266447",
@@ -106,18 +109,15 @@
     "learn-chatgpt:github-release-440934118",
     "learn-chatgpt:github-release-435979892",
     "learn-chatgpt:codex-2026-11-05-app",
-    "learn-chatgpt:codex-2026-11-03-app",
-    "learn-chatgpt:codex-2026-11-02-mobile",
-    "learn-chatgpt:codex-2026-10-29-app"
+    "learn-chatgpt:codex-2026-11-03-app"
   ],
   "openclaw": [
+    "github:openclaw/openclaw:451480101",
     "github:openclaw/openclaw:449438362",
     "github:openclaw/openclaw:448312352",
     "github:openclaw/openclaw:446539713",
     "github:openclaw/openclaw:440627284",
-    "github:openclaw/openclaw:440808653",
-    "github:openclaw/openclaw:438143985",
-    "github:openclaw/openclaw:434965962"
+    "github:openclaw/openclaw:440808653"
   ],
   "cline": [
     "github:cline/cline:424033561",
