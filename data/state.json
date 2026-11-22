@@ -70,6 +70,7 @@
     "github:zai-org/ZCode:395574116"
   ],
   "deepseek-harness": [
+    "github:deepseek-ai/deepseek-harness:454164291",
     "github:deepseek-ai/deepseek-harness:449981867",
     "github:deepseek-ai/deepseek-harness:448996768",
     "github:deepseek-ai/deepseek-harness:443956880",
@@ -78,8 +79,7 @@
     "github:deepseek-ai/deepseek-harness:432408236",
     "github:deepseek-ai/deepseek-harness:428584211",
     "github:deepseek-ai/deepseek-harness:426210803",
-    "github:deepseek-ai/deepseek-harness:426210322",
-    "github:deepseek-ai/deepseek-harness:422003676"
+    "github:deepseek-ai/deepseek-harness:426210322"
   ],
   "qoder": [
     "qoder:Qoder 0.5.17",
