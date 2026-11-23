@@ -64,12 +64,14 @@
     "github:MiniMax-AI/minimax-code:398168640"
   ],
   "zcode": [
+    "github:zai-org/ZCode:455123330",
     "github:zai-org/ZCode:444292103",
     "github:zai-org/ZCode:433736059",
     "github:zai-org/ZCode:428836286",
     "github:zai-org/ZCode:395574116"
   ],
   "deepseek-harness": [
+    "github:deepseek-ai/deepseek-harness:454383540",
     "github:deepseek-ai/deepseek-harness:454164291",
     "github:deepseek-ai/deepseek-harness:449981867",
     "github:deepseek-ai/deepseek-harness:448996768",
@@ -78,8 +80,7 @@
     "github:deepseek-ai/deepseek-harness:433935433",
     "github:deepseek-ai/deepseek-harness:432408236",
     "github:deepseek-ai/deepseek-harness:428584211",
-    "github:deepseek-ai/deepseek-harness:426210803",
-    "github:deepseek-ai/deepseek-harness:426210322"
+    "github:deepseek-ai/deepseek-harness:426210803"
   ],
   "qoder": [
     "qoder:Qoder 0.5.17",
@@ -111,12 +112,12 @@
     "learn-chatgpt:codex-2026-11-03-app"
   ],
   "openclaw": [
+    "github:openclaw/openclaw:454859631",
     "github:openclaw/openclaw:451480101",
     "github:openclaw/openclaw:449438362",
     "github:openclaw/openclaw:448312352",
     "github:openclaw/openclaw:446539713",
-    "github:openclaw/openclaw:440627284",
-    "github:openclaw/openclaw:440808653"
+    "github:openclaw/openclaw:440627284"
   ],
   "cline": [
     "github:cline/cline:453479600",
