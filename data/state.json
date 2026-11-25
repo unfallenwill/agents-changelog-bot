@@ -1,5 +1,6 @@
 {
   "claude-code": [
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.332",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.330",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
@@ -8,12 +9,10 @@
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
     "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
-    "https://github.com/anthropics/claude-code/releases/tag/v2.1.321"
+    "https://github.com/anthropics/claude-code/releases/tag/v2.1.322"
   ],
   "codex": [
-    "github:openai/codex:456141969",
-    "github:openai/codex:452122665"
+    "github:openai/codex:456141969"
   ],
   "cursor": [
     "https://cursor.com/changelog/voice-chat",
@@ -40,6 +39,7 @@
     "github:anomalyco/opencode:437181287"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
     "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
     "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
     "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
@@ -48,8 +48,7 @@
     "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
     "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
     "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-    "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-    "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available"
+    "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:429709436",
@@ -83,6 +82,7 @@
     "github:deepseek-ai/deepseek-harness:426210803"
   ],
   "qoder": [
+    "qoder:Qoder 0.5.18",
     "qoder:Qoder 0.5.17",
     "qoder:Qoder 0.5.16",
     "qoder:Qoder 0.5.14",
@@ -91,12 +91,13 @@
     "qoder:Qoder 0.5.11",
     "qoder:Qoder 0.5.7",
     "qoder:Qoder 0.5.6",
-    "qoder:Qoder 0.5.5",
-    "qoder:Qoder 0.5.3"
+    "qoder:Qoder 0.5.5"
   ],
   "chatgpt": [
     "learn-chatgpt:github-release-456141969",
+    "learn-chatgpt:codex-2026-11-23-app",
     "learn-chatgpt:github-release-452122665",
+    "learn-chatgpt:codex-2026-11-19-app",
     "learn-chatgpt:codex-2026-11-18-mobile",
     "learn-chatgpt:github-release-449494076",
     "learn-chatgpt:codex-gpt-62-astra",
@@ -107,16 +108,16 @@
     "learn-chatgpt:github-release-442267349",
     "learn-chatgpt:codex-2026-11-10-app",
     "learn-chatgpt:codex-2026-11-10-mobile",
-    "learn-chatgpt:github-release-440934118",
-    "learn-chatgpt:github-release-435979892",
-    "learn-chatgpt:codex-2026-11-05-app"
+    "learn-chatgpt:github-release-440934118"
   ],
   "openclaw": [
+    "github:openclaw/openclaw:457607409",
+    "github:openclaw/openclaw:457476003",
+    "github:openclaw/openclaw:456491349",
     "github:openclaw/openclaw:454859631",
     "github:openclaw/openclaw:451480101",
     "github:openclaw/openclaw:449438362",
-    "github:openclaw/openclaw:448312352",
-    "github:openclaw/openclaw:446539713"
+    "github:openclaw/openclaw:448312352"
   ],
   "cline": [
     "github:cline/cline:453479600",
