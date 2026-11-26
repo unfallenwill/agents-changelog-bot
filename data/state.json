@@ -27,6 +27,7 @@
     "https://cursor.com/changelog/start-from-scratch"
   ],
   "opencode": [
+    "github:anomalyco/opencode:458818306",
     "github:anomalyco/opencode:455647445",
     "github:anomalyco/opencode:455202350",
     "github:anomalyco/opencode:449412892",
@@ -35,10 +36,10 @@
     "github:anomalyco/opencode:447752835",
     "github:anomalyco/opencode:444009048",
     "github:anomalyco/opencode:442212713",
-    "github:anomalyco/opencode:440226160",
-    "github:anomalyco/opencode:437181287"
+    "github:anomalyco/opencode:440226160"
   ],
   "copilot": [
+    "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
     "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
     "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
     "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
@@ -47,8 +48,7 @@
     "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
     "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
     "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
-    "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-    "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview"
+    "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host"
   ],
   "minimax-code": [
     "github:MiniMax-AI/minimax-code:429709436",
@@ -82,6 +82,7 @@
     "github:deepseek-ai/deepseek-harness:426210803"
   ],
   "qoder": [
+    "qoder:Qoder 0.5.20",
     "qoder:Qoder 0.5.18",
     "qoder:Qoder 0.5.17",
     "qoder:Qoder 0.5.16",
@@ -90,8 +91,7 @@
     "qoder:Qoder 0.5.12",
     "qoder:Qoder 0.5.11",
     "qoder:Qoder 0.5.7",
-    "qoder:Qoder 0.5.6",
-    "qoder:Qoder 0.5.5"
+    "qoder:Qoder 0.5.6"
   ],
   "chatgpt": [
     "learn-chatgpt:github-release-456141969",
@@ -112,14 +112,16 @@
   ],
   "openclaw": [
     "github:openclaw/openclaw:457607409",
+    "github:openclaw/openclaw:458541909",
     "github:openclaw/openclaw:457476003",
     "github:openclaw/openclaw:456491349",
     "github:openclaw/openclaw:454859631",
     "github:openclaw/openclaw:451480101",
-    "github:openclaw/openclaw:449438362",
-    "github:openclaw/openclaw:448312352"
+    "github:openclaw/openclaw:449438362"
   ],
   "cline": [
+    "github:cline/cline:459143018",
+    "github:cline/cline:459158424",
     "github:cline/cline:453479600",
     "github:cline/cline:453459288",
     "github:cline/cline:453474859",
@@ -127,15 +129,14 @@
     "github:cline/cline:424033561",
     "github:cline/cline:423833875",
     "github:cline/cline:423868519",
-    "github:cline/cline:423847313",
-    "github:cline/cline:415547955",
-    "github:cline/cline:415584031"
+    "github:cline/cline:423847313"
   ],
   "kilocode": [
     "github:Kilo-Org/kilocode:452785010",
     "github:Kilo-Org/kilocode:435156433"
   ],
   "devin": [
+    "devin:v3.15.14:November 25, 2026",
     "devin:v3.14.30833:November 20, 2026",
     "devin:v3.14.30825:November 18, 2026",
     "devin:v3.14.30819:November 17, 2026",
@@ -144,7 +145,6 @@
     "devin:v3.12.57:November 12, 2026",
     "devin:v3.12.43:November 9, 2026",
     "devin:v3.12.32:November 8, 2026",
-    "devin:v3.11.238:October 30, 2026",
-    "devin:v3.11.235:October 30, 2026"
+    "devin:v3.11.238:October 30, 2026"
   ]
 }
