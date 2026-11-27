@@ -120,20 +120,19 @@
     "github:openclaw/openclaw:449438362"
   ],
   "cline": [
+    "github:cline/cline:459225065",
     "github:cline/cline:459143018",
+    "github:cline/cline:459221349",
     "github:cline/cline:459158424",
     "github:cline/cline:453479600",
     "github:cline/cline:453459288",
     "github:cline/cline:453474859",
     "github:cline/cline:453464427",
     "github:cline/cline:424033561",
-    "github:cline/cline:423833875",
-    "github:cline/cline:423868519",
-    "github:cline/cline:423847313"
+    "github:cline/cline:423833875"
   ],
   "kilocode": [
-    "github:Kilo-Org/kilocode:452785010",
-    "github:Kilo-Org/kilocode:435156433"
+    "github:Kilo-Org/kilocode:452785010"
   ],
   "devin": [
     "devin:v3.15.14:November 25, 2026",
