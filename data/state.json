@@ -82,6 +82,7 @@
     "github:deepseek-ai/deepseek-harness:426210803"
   ],
   "qoder": [
+    "qoder:Qoder 0.5.21",
     "qoder:Qoder 0.5.20",
     "qoder:Qoder 0.5.18",
     "qoder:Qoder 0.5.17",
@@ -90,8 +91,7 @@
     "qoder:Qoder 0.5.13",
     "qoder:Qoder 0.5.12",
     "qoder:Qoder 0.5.11",
-    "qoder:Qoder 0.5.7",
-    "qoder:Qoder 0.5.6"
+    "qoder:Qoder 0.5.7"
   ],
   "chatgpt": [
     "learn-chatgpt:github-release-456141969",
@@ -116,8 +116,7 @@
     "github:openclaw/openclaw:457476003",
     "github:openclaw/openclaw:456491349",
     "github:openclaw/openclaw:454859631",
-    "github:openclaw/openclaw:451480101",
-    "github:openclaw/openclaw:449438362"
+    "github:openclaw/openclaw:451480101"
   ],
   "cline": [
     "github:cline/cline:459225065",
@@ -132,6 +131,7 @@
     "github:cline/cline:423833875"
   ],
   "kilocode": [
+    "github:Kilo-Org/kilocode:460364775",
     "github:Kilo-Org/kilocode:452785010"
   ],
   "devin": [
